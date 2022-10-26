@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Sh46EMg3nNvKyezmb1JYy9aSo+j6CArNEpqkzBf1d+KVkKuySXs8sU+AwN7UCdSv25hMyzSlo1IaCxMhXhLKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\13a\\Desktop\\Bckp Junior\\TI360\\C#\\VisualStudio\\ParedeVsAzulejo\\ParedeVsAzulejo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\13a\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

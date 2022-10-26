@@ -1,0 +1,14 @@
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\ParedeVsAzulejo\obj\Debug\netcoreapp3.1\ParedeVsAzulejo.csproj.AssemblyReference.cache
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\ParedeVsAzulejo\obj\Debug\netcoreapp3.1\ParedeVsAzulejo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\ParedeVsAzulejo\obj\Debug\netcoreapp3.1\ParedeVsAzulejo.AssemblyInfoInputs.cache
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\ParedeVsAzulejo\obj\Debug\netcoreapp3.1\ParedeVsAzulejo.AssemblyInfo.cs
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\ParedeVsAzulejo\obj\Debug\netcoreapp3.1\ParedeVsAzulejo.csproj.CoreCompileInputs.cache
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\ParedeVsAzulejo\bin\Debug\netcoreapp3.1\ParedeVsAzulejo.exe
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\ParedeVsAzulejo\bin\Debug\netcoreapp3.1\ParedeVsAzulejo.deps.json
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\ParedeVsAzulejo\bin\Debug\netcoreapp3.1\ParedeVsAzulejo.runtimeconfig.json
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\ParedeVsAzulejo\bin\Debug\netcoreapp3.1\ParedeVsAzulejo.runtimeconfig.dev.json
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\ParedeVsAzulejo\bin\Debug\netcoreapp3.1\ParedeVsAzulejo.dll
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\ParedeVsAzulejo\bin\Debug\netcoreapp3.1\ParedeVsAzulejo.pdb
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\ParedeVsAzulejo\obj\Debug\netcoreapp3.1\ParedeVsAzulejo.dll
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\ParedeVsAzulejo\obj\Debug\netcoreapp3.1\ParedeVsAzulejo.pdb
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\ParedeVsAzulejo\obj\Debug\netcoreapp3.1\ParedeVsAzulejo.genruntimeconfig.cache
